@@ -381,7 +381,3 @@ curl -X POST "http://localhost:8000/query" \
 - OpenAI CLIP for multimodal embeddings
 - ChromaDB for efficient vector storage
 - FastAPI for the web framework
-
-## Support
-
-For questions or issues, please open an issue on GitHub or contact the development team.
