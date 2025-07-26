@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+PyPDF2
+nltk
+chromadb
+google-generativeai
+python-dotenv
+# CLIP dependencies
+torch
+torchvision
+git+https://github.com/openai/CLIP.git
+Pillow
+numpy
+requests
+scikit-learn
