@@ -23,7 +23,7 @@ A Retrieval-Augmented Generation (RAG) system optimized for Bengali and English 
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:SoRaS20/multilingual_rag_pipeline.git
 cd rag-multilingual-pipeline
 ```
 
